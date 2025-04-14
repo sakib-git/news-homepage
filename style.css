@@ -47,6 +47,7 @@ body {
     margin: 0;
     padding-block: 1rem;
     color: var(--Verydarkblue);
+    background-color:var(--ff-white)
 }
 
 main {
